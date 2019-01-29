@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+}
+
+
+
+
+input[type="text"],input[type="password"]{
+	width: 323px;
+	height: 40px;
+	outline: none;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: 2px solid #c1c1c1;
+	display: block;
+	font-size: 15px;
+	margin: 0 auto 0 auto;
+}
+
+
+input[type="submit"]{
+	width: 323px;
+	background: #222;
+	display: block;
+	margin: 10px auto 0 auto;
+	color: #FFF;
+	padding: 10px;
+	border-radius: 4px;
+	outline: none;
+	border: none;
+}
